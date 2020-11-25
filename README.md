@@ -1,1 +1,1 @@
-# redesgan
+#  Generative Adversarial Networks (GANs) Specialization
